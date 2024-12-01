@@ -10,7 +10,6 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white) 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) 
-![Julia](https://img.shields.io/badge/-Julia-9558B2?style=flat&logo=julia&logoColor=white)
 
 ### Machine Learning Libraries & Frameworks:
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
