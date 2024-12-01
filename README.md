@@ -28,4 +28,4 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 ---
 
 Feel free to check out my repositories below! 👇
-[My GitHub Repos](https://github.com/Abinaya123)
+[My GitHub Repos](https://github.com/Abinaya-Subramaniam)
