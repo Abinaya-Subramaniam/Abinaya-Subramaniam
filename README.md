@@ -8,6 +8,7 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 - **Machine Learning & AI**: TensorFlow, Keras, Scikit-learn, OpenCV
 - **Data Science**: Pandas, Numpy, Matplotlib, Seaborn
 - **Web Development**: HTML, CSS, React, Git
+- **Version Control**: Git
 
 ## 📊 What I’m Learning
 
@@ -26,6 +27,10 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 - **NLP** projects to process and analyze text data
 
 ---
+### 📝 Blog
+- Check out my technical articles on [Medium](https://medium.com/@abi12subramaniam)
+- Check out my Personal Blog on [Inkwel Chronicles](https://inkwellchronicles360.wordpress.com/) 
+
 
 Feel free to check out my repositories below! 👇
 [My GitHub Repos](https://github.com/Abinaya-Subramaniam?tab=repositories)
