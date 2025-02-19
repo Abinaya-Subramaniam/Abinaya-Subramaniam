@@ -8,7 +8,6 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) 
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white) 
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) 
 
 ### Machine Learning Libraries & Frameworks:
@@ -23,8 +22,7 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 
 ### Notebooks and IDE:
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?style=flat&logo=jupyter&logoColor=white) 
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black) 
-![RStudio](https://img.shields.io/badge/-RStudio-75AADB?style=flat&logo=rstudio&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=black)
 
 ### Data Storage:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
@@ -36,21 +34,6 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 
 
 
-## 📊 What I’m Learning
-
-- **Deep Learning** with **TensorFlow** & **Keras**
-- **Natural Language Processing (NLP)** techniques for text analysis
-- **Computer Vision** using **OpenCV**
-- **Advanced Data Science** techniques for predictive analytics
-- **Big Data** processing with **SQL** and **Hadoop/Spark**
-
-## 🎯 Current Focus
-
-- Developing **machine learning models** using TensorFlow and Keras
-- Enhancing my skills in **Data Visualization** with Matplotlib and Seaborn
-- Building **AI-powered applications** using Python and OpenCV
-- Exploring data-driven insights using **SQL** and **Pandas**
-- **NLP** projects to process and analyze text data
 
 ---
 ### 📝 Blog
