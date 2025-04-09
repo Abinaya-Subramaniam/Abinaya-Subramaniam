@@ -8,7 +8,6 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white) 
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white) 
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white) 
 
 ### Machine Learning Libraries & Frameworks:
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
@@ -33,7 +32,13 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
+## 📊 GitHub Stats
 
+![Abinaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinaya-Subramaniam&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+## 💻 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinaya-Subramaniam&theme=radical)
 
 ---
 ### 📝 Blog
