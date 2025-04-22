@@ -40,4 +40,3 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 Feel free to check out my repositories below! 👇
 [My GitHub Repos](https://github.com/Abinaya-Subramaniam?tab=repositories)
 
-### ![Profile Views](https://komarev.com/ghpvc/?username=Abinaya-Subramaniam&label=Profile%20views&color=0e75b6&style=flat)
