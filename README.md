@@ -31,13 +31,6 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
-📈 Github Stats
-
-<a href="https://github.com/Abinaya-Subramaniam/Abinaya-Subramaniam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinaya-Subramaniam&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
-</a>
-
-
 ### 📝 Blog
 - Check out my technical articles on [Medium](https://medium.com/@abi12subramaniam)
 - Check out my Personal Blog on [Inkwell Chronicles](https://inkwellchronicles360.wordpress.com/) 
