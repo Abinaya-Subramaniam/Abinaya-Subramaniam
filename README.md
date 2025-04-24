@@ -33,7 +33,9 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 
 📈 Github Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abinaya-Subramaniam&show_icons=true&theme=gotham" alt="Abinaya-Subramaniam" />
+<a href="https://github.com/Abinaya-Subramaniam/Abinaya-Subramaniam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinaya-Subramaniam&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
+</a>
 
 
 ### 📝 Blog
