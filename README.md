@@ -31,6 +31,10 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
+📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abinaya-Subramaniam&show_icons=true&theme=gotham" alt="Abinaya-Subramaniam" />
+
 
 ### 📝 Blog
 - Check out my technical articles on [Medium](https://medium.com/@abi12subramaniam)
