@@ -39,3 +39,12 @@ I’m currently pursuing BSc (Hons) in **Artificial Intelligence** at the **Univ
 Feel free to check out my repositories below! 👇
 [My GitHub Repos](https://github.com/Abinaya-Subramaniam?tab=repositories)
 
+## 📊 GitHub Stats:
+
+![Abinaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abinaya-Subramaniam&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![Abinaya's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abinaya-Subramaniam&theme=radical&hide_border=false)
+
+![Abinaya's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abinaya-Subramaniam&layout=compact&theme=radical&hide_border=false)
+
+
